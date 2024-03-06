@@ -59,7 +59,7 @@ Summer 2024 office hours will be posted here by May 28, 2024.
 ## Graph Information
 - You will be asked to create scientific graphs frequently to help you analyze your collected data.
 - The [Rules for Graphs website](https://doctor-pasquale.com/rules-for-graphs) will be your guide to dos and don'ts.
-- Sometimes you will be asked to calculate the slope of your data. [Professor Hill in the math department made a great video explaining how to do this.](https://www.youtube.com/watch?v=-KwSYQJ31Lg)</li>
+- Sometimes you will be asked to calculate the slope of your data. [Professor Hill in the math department made a great video explaining how to do this.](https://www.youtube.com/watch?v=-KwSYQJ31Lg)
 
 # Exam Information
 {% include youtube.html id="ANORErbzJpc" %}
