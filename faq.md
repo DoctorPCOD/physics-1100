@@ -89,3 +89,19 @@ If you're already doing the work, then you don't need extra credit. If you aren'
 No. There are no make-ups allowed in this class.
 
 If you didn't get a good grade on an assignment, that is a good opportunity to figure out what the reason may have been. Then, talk to Dr. P, or the peer tutor, and come up with a strategy for getting more caught up on whatever topic(s) may be troubling you.
+
+## I'm in a different time zone. What time are my assignments due?
+This class, being run from the College of DuPage in Glen Ellyn, IL, uses Central Time for all assignment deadlines. It is your responsibility to ensure that you turn things in by the correct deadline, regardless of the time zone that you are currently in.
+
+## I can't see the videos on Pivot. What should I do?
+I highly recommend using the Firefox browser when using Pivot. If that doesn't help, contact Pivot support using the chat box in the lower-right corner of the screen (see screen shot below).
+
+I know it's not always possible, but try to start working on labs as soon as you can at the start of the week so that issues like this can be worked out before the assignment is due.
+
+## Why haven't you responded to my e-mail?
+This class is asychronous, but my office hours are synchronous. That means I have regular office hours that take place every week. If I recieve your e-mail during my office hours, I will respond right away. Otherwise, I will not necessarily read your e-mail until my next scheduled office hour session. Please be patient and keep that in mind before sending me a follow-up e-mail.
+
+Because the hours that I can provide quick access to help are limited, please plan ahead when doing assignments. (For example: If you e-mail me at 11:00 p.m., one hour before an assignment is due, I will not respond before the assignment deadline.)
+
+## What if I urgently need help solving a homework or lab?
+If you urgently need help solving a question in an assignment, and it's during my office hours, I am available over e-mail or in person _when my office hours are on campus_. I'm available on Zoom only by appointment. Tutoring services may also be available, but they are usually by appointment. My suggestion is always going to be to start assignments early so you're not struggling at the last minute. If you urgently need help and it's outside of my office hours, there is not much that I can do to assist at that point.
