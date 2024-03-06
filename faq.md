@@ -98,7 +98,7 @@ I highly recommend using the Firefox browser when using Pivot. If that doesn't h
 
 I know it's not always possible, but try to start working on labs as soon as you can at the start of the week so that issues like this can be worked out before the assignment is due.
 
-![Screen shot of Pivot showing the chat box in the lower right corner of the screen](https://github.com/DoctorPCOD/physics-1100/blob/main/img/pivot_help.png)
+![Screen shot of Pivot showing the chat box in the lower right corner of the screen](img/pivot_help.png)
 
 ## Why haven't you responded to my e-mail?
 This class is asychronous, but my office hours are synchronous. That means I have regular office hours that take place every week. If I recieve your e-mail during my office hours, I will respond right away. Otherwise, I will not necessarily read your e-mail until my next scheduled office hour session. Please be patient and keep that in mind before sending me a follow-up e-mail.
