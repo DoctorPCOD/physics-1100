@@ -77,7 +77,7 @@ Summer 2024 office hours will be posted by May 28, 2024.
 # Resources
 {% include youtube.html id="FDxqas0JSpI" %}
 
-- Frequently Asked Questions (FAQs)
+- [Frequently Asked Questions (FAQs)](faq.md)
 - Advice from previous students
 - [Borrow a laptop from the COD library](https://cod.libwizard.com/f/laptops)
 - [Hotspots are available to borrow from COD for students who can demonstrate financial need](https://cod.edu/costs/financial_aid/hotspot-lending.html)
