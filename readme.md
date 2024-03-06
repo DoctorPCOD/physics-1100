@@ -12,7 +12,7 @@ This page contains information about Dr. Pasquale's PHYSI-1100 online asynchrono
 - [Homework (MyOpenMath)](https://www.myopenmath.com)
 
 # Class Format
-https://youtu.be/5XZxrxwrgqE
+{% include youtube.html id="5XZxrxwrgqE" %}
 
 # Summer 2024 Office Hours
 https://youtu.be/ohBDfWVRJ3E
