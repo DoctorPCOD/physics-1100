@@ -37,7 +37,7 @@ I will not provide a study guide for the exams. There is a lot of value in prepa
 
 Please note that your guided notes are a great place to start when preparing your study guide!
 
-[Here is a PDF of creating study guides from Utah State University that is a good outline to creating a study guide, if you're not sure how to get started.](docs/creating_study_guides.pdf)
+[Here is a PDF of creating study guides from Utah State University that is a good outline to creating a study guide, if you're not sure how to get started.](https://doctorpcod.github.io/physics-1100/docs/creating_study_guides.pdf)
 
 ## Do you have example problems I can work on to practice?
 Unfortunately, at this time, I do not have any example problems you can work on. Keep in mind that your MyOpenMath homework assignments are currently the best place for you to get practice! You are also welcome to attend office hours or tutoring for extra help.
