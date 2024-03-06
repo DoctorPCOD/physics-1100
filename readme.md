@@ -27,10 +27,10 @@ Summer 2024 office hours will be posted by May 28, 2024.
 - **How:** Download the template from [Gradescope](https://www.gradescope.com) and either print it out to write out your answers, or load it into a tablet and use a stylus. You may also use a blank sheet of paper to write out your guided notes, provided that you include content headings for each section. Then upload your completed PDF file to Gradescope.
 
 # Homework Information
-https://youtu.be/qPDSXLIWnrg
+{% include youtube.html id="qPDSXLIWnrg" %}
 
 # Lab Information
-https://youtu.be/bev3dPjmmPA
+{% include youtube.html id="bev3dPjmmPA" %}
 
 - **Note:** There is NO lab manual for this class! All of our labs take place on [Gradescope](https://www.gradescope.com) and do not require a physical lab manual.
 - **Where:** You will complete labs in [Gradescope](https://www.gradescope.com), some activities will take place on [Pivot](https://www.pivotinteractives.com), some data is available in [MyOpenMath](https://www.myopenmath.com). Instructions in each lab will direct you to Pivot or MyOpenMath as needed.
@@ -55,7 +55,7 @@ https://youtu.be/bev3dPjmmPA
 - Sometimes you will be asked to calculate the slope of your data. [Professor Hill in the math department made a great video explaining how to do this.](https://www.youtube.com/watch?v=-KwSYQJ31Lg)</li>
 
 # Exam Information
-https://youtu.be/ANORErbzJpc
+{% include youtube.html id="ANORErbzJpc" %}
 
 - **All exams will take place in person at the testing center at COD!**
   - You may take the exams at any one of COD's testing centers ([list of the locations and hours](https://www.cod.edu/academics/testing/hours.html))
@@ -70,7 +70,7 @@ https://youtu.be/ANORErbzJpc
 - If you have an accommodation (for extra time, for example) you must show your letter to the staff at the Testing Center so they can ensure you receive your accommodation.
 
 # Resources
-https://youtu.be/FDxqas0JSpI
+{% include youtube.html id="FDxqas0JSpI" %}
 
 - Frequently Asked Questions (FAQs)
 - Advice from previous students
