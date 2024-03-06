@@ -28,6 +28,10 @@ Summer 2024 office hours will be posted by May 28, 2024.
 
 # Homework Information
 {% include youtube.html id="qPDSXLIWnrg" %}
+- **Where:** [MyOpenMath](https://www.myopenmath.com)
+  - On the first day of the semester, you will receive an e-mail to your dupage.edu account with instructions for signing up for MyOpenMath
+- **When:** All due dates are listed in [MyOpenMath](https://www.myopenmath.com)
+- **Regrades:** If you believe there is a mistake with one of the questions, e-mail Dr. P within one week following the homework deadline.
 
 # Lab Information
 {% include youtube.html id="bev3dPjmmPA" %}
@@ -41,6 +45,7 @@ Summer 2024 office hours will be posted by May 28, 2024.
 
 ## Pivot
 - To sign up for Pivot, use your dupage.edu e-mail account.
+  - On the first day of the semester, you will receive an e-mail to your dupage.edu account with a course access link that you can use to sign up for our class Pivot account.
   - Any accounts that don't use a dupage.edu account will be dropped!
   - If you lose your password, go through Pivot to restore it.
 - It is strongly recommended that you use the Firefox browser with Pivot (see the FAQ page for more information).
@@ -74,3 +79,6 @@ Summer 2024 office hours will be posted by May 28, 2024.
 
 - Frequently Asked Questions (FAQs)
 - Advice from previous students
+- [Borrow a laptop from the COD library](https://cod.libwizard.com/f/laptops)
+- [Hotspots are available to borrow from COD for students who can demonstrate financial need](https://cod.edu/costs/financial_aid/hotspot-lending.html)
+- Contact [COD's Counseling and Advising Center](https://www.cod.edu/counseling) if you have questions about classes to take, transfer, time management, etc.
