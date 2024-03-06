@@ -15,12 +15,12 @@ This page contains information about Dr. Pasquale's PHYSI-1100 online asynchrono
 {% include youtube.html id="5XZxrxwrgqE" %}
 
 # Summer 2024 Office Hours
-https://youtu.be/ohBDfWVRJ3E
+{% include youtube.html id="ohBDfWVRJ3E" %}
 
 Summer 2024 office hours will be posted by May 28, 2024.
 
 # Guided Notes Information
-https://youtu.be/I70a4fNwZI4
+{% include youtube.html id="I70a4fNwZI4" %}
 
 - **Where:** All guided notes assignments are on [Gradescope](https://www.gradescope.com) (There is no access code for [Gradescope](https://www.gradescope.com)! You will receive an e-mail notification to sign up on the first day of classes.)
 - **When:** All assignment due dates and times are provided on [Gradescope](https://www.gradescope.com).
