@@ -2,7 +2,7 @@
 This page contains information about Dr. Pasquale's PHYSI-1100 online asynchronous class at the College of DuPage.
 
 # Textbook
-- Conceptual Physics by Dr. Pasquale, Dr. Fazzini, and Dr. Bennett
+- [Conceptual Physics by Dr. Pasquale, Dr. Fazzini, and Dr. Bennett](https://cod.pressbooks.pub/physics1100/)
 
 # Links
 - [Lecture video playlist on YouTube](https://www.youtube.com/playlist?list=PLo9WFV9pBhDtRfnN_PwI3G82QJaVj1XVu)
@@ -14,10 +14,12 @@ This page contains information about Dr. Pasquale's PHYSI-1100 online asynchrono
 # Class Format
 {% include youtube.html id="5XZxrxwrgqE" %}
 
+Note that this is a summer class and follows an extremely fast-paced 8-week semester! Time management is going to be crucial for you to complete assignments. Three assignments will be due at 48-hour intervals, if not more frequently. Plan on spending most of your time during this 8-week period working on physics. If this doesn't sound fun, consider taking this class in the fall or spring semesters when you have 16 weeks to do the work.
+
 # Summer 2024 Office Hours
 {% include youtube.html id="ohBDfWVRJ3E" %}
 
-Summer 2024 office hours will be posted by May 28, 2024.
+Summer 2024 office hours will be posted here by May 28, 2024.
 
 # Guided Notes Information
 {% include youtube.html id="I70a4fNwZI4" %}
@@ -78,7 +80,7 @@ Summer 2024 office hours will be posted by May 28, 2024.
 {% include youtube.html id="FDxqas0JSpI" %}
 
 - [Frequently Asked Questions (FAQs)](faq.md)
-- Advice from previous students
+- [Advice from previous students](advice.md)
 - [Borrow a laptop from the COD library](https://cod.libwizard.com/f/laptops)
 - [Hotspots are available to borrow from COD for students who can demonstrate financial need](https://cod.edu/costs/financial_aid/hotspot-lending.html)
 - Contact [COD's Counseling and Advising Center](https://www.cod.edu/counseling) if you have questions about classes to take, transfer, time management, etc.
